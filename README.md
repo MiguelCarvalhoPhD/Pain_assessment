@@ -22,8 +22,6 @@ This work is built upon the `smote_variants` library ([https://github.com/analyt
 -----
 
 
----
-
 ## 1. Overview
 
 Class imbalance is a central challenge in pain prediction: clinically relevant pain states tend to be rare compared to “no pain” or baseline segments. This repo addresses that by:
@@ -63,7 +61,7 @@ The framework is implemented as a subclass of `OverSamplingSimplex` from `smote_
 
 ---
 
-## 3. Core Method: Genetic β-Resampling Framework
+## 3. Core Method: Genetic βeta Oversampling
 
 The main method is implemented in:
 
