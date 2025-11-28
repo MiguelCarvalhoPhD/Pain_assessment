@@ -1,0 +1,14 @@
+setuptools>=41.0.1
+joblib
+numpy
+pandas
+scikit-learn
+minisom
+statistics
+tensorflow
+keras
+mkl
+metric-learn
+seaborn
+common-datasets
+pygad
